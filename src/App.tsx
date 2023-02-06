@@ -1,12 +1,7 @@
-
-import cn from './App.module.scss';
+import cn from './App.module.scss'
 
 function App() {
-  return (
-    <div className={cn.root}>
-      sd
-    </div>
-  );
+  return <div className={cn.root}>sd</div>
 }
 
-export default App;
+export default App
