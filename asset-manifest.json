@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-horizontal-scroll/static/css/main.25de9e9e.css",
+    "main.js": "/test-horizontal-scroll/static/js/main.185db1f1.js",
+    "index.html": "/test-horizontal-scroll/index.html",
+    "main.25de9e9e.css.map": "/test-horizontal-scroll/static/css/main.25de9e9e.css.map",
+    "main.185db1f1.js.map": "/test-horizontal-scroll/static/js/main.185db1f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25de9e9e.css",
+    "static/js/main.185db1f1.js"
+  ]
+}
