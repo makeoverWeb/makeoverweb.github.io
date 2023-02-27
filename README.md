@@ -11,3 +11,7 @@ cd horizontal-scroll
 npm ci
 npm start
 ```
+
+## Preview
+
+[Horizontal scroll](https://makeoverweb.github.io/test-horizontal-scroll/) - gh-pages
